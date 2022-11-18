@@ -1384,14 +1384,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1822336696530034854, guid: 61ba81fdb7791f7418a5002c97679545, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1822336698253000969, guid: 61ba81fdb7791f7418a5002c97679545, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1822336698253000971, guid: 61ba81fdb7791f7418a5002c97679545, type: 3}
       propertyPath: minePool.Array.data[0]
       value: 
@@ -2223,10 +2215,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4630136014004130242, guid: a2f4f55e794b53748875dfe0afc55c2f, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a2f4f55e794b53748875dfe0afc55c2f, type: 3}
 --- !u!1001 &4630396361435548668
@@ -2297,14 +2285,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4635862893721007213, guid: 9cb5e9a442965824a8ba1598da50981e, type: 3}
-      propertyPath: firstWaveInterval
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4635862893721007213, guid: 9cb5e9a442965824a8ba1598da50981e, type: 3}
-      propertyPath: secondWaveInterval
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 4635862893721007214, guid: 9cb5e9a442965824a8ba1598da50981e, type: 3}
       propertyPath: m_RootOrder
       value: 8

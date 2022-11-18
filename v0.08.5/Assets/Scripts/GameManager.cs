@@ -37,7 +37,7 @@ public class GameManager : MonoBehaviour
         UiManager.Instance.CloseGameoverPanel();
 
 
-        SpawnManager.Instance.StartEnemyGenerator();
+        
         SpawnManager.Instance.CreateFirstWaveEnemys();
 
         Time.timeScale = 1f;

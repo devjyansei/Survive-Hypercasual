@@ -54,12 +54,12 @@ MonoBehaviour:
   thirdWave: []
   fourthWave: []
   fifthWave: []
-  firstWaveSize: 10
-  secondWaveSize: 20
-  aliveEnemyCount: 2
+  firstWaveSize: 5
+  secondWaveSize: 10
+  aliveEnemyCount: 0
   createdEnemyCount: 0
-  firstWaveInterval: 100
-  secondWaveInterval: 100
+  firstWaveInterval: 1
+  secondWaveInterval: 1
 --- !u!1 &4635862893796751620
 GameObject:
   m_ObjectHideFlags: 0

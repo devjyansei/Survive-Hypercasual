@@ -409,7 +409,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
-  damage: 100
+  damage: 25
   fireRate: 1.1
   speedCost: 10
   damageCost: 20
@@ -477,6 +477,10 @@ PrefabInstance:
     - target: {fileID: 4815469809516506804, guid: 291c4529f26a8504d915c51da867703d, type: 3}
       propertyPath: m_Name
       value: Field 1 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4815469809516506804, guid: 291c4529f26a8504d915c51da867703d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 291c4529f26a8504d915c51da867703d, type: 3}
